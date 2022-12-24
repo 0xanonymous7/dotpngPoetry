@@ -494,7 +494,7 @@ function App() {
         return (
           <>
             <h2>Thoughts and Aphorisms of a Human Being by .png</h2>
-            <h2><a href="https://dotpngart.netlify.app/" target="_blank" rel="noreferrer" style={{color:"inherit", textDecoration:"none"}}>[MINT]</a></h2>
+            <h2><a href="https://dotpngart.netlify.app/" target="_blank" rel="noreferrer" style={{color:"inherit", textDecoration:"none"}}>[ENTER HERE]</a></h2>
           </>
         );
     }
