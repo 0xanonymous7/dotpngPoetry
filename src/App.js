@@ -493,7 +493,8 @@ function App() {
       default:
         return (
           <>
-            <h2>Project by dotpng.art</h2>
+            <h2>Thoughts and Aphorisms of a Human Being by .png</h2>
+            <h2><a href="https://dotpngart.netlify.app/" target="_blank" rel="noreferrer" style={{color:"inherit", textDecoration:"none"}}>[MINT]</a></h2>
           </>
         );
     }
